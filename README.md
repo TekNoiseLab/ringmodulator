@@ -6,6 +6,7 @@ A simple ring modulator inspired by [this](https://www.haraldswerk.de/Wave_Proce
 - Order the components from your favorite electronics supplier.
 - Solder the components to the PCB.
 - Mount the panel.
+- Calibrate the circuit [described here](https://www.haraldswerk.de/Wave_Processors/Ringmodulator/Dual_Ringmod.html).
 
 <img src="Images/front.jpeg" width="300">
 <img src="Images/side.jpeg" width="300">
